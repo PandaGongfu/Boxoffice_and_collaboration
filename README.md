@@ -6,4 +6,6 @@ This project consists of three parts:
 2. Features are engineered from the data.   
 3. Use OLS, Lasso, and RandomForest Regressor to find the best model.    
     
-Please refer to the presentation slides and jupyter notebooks for results. Code for parts 1&2 as well as intermediate data are also included.
+Presentation slides and jupyter notebooks are included in this repo, as well as  code for parts 1&2 and intermediate data.
+
+For a detailed desciption of methodology and results, please refer to [my blog](https://pandagongfu.github.io/Luther/).

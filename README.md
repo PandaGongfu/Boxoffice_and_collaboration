@@ -1,4 +1,4 @@
-# Project-Luther  
+# Boxoffice and Collaboration
 ## An analysis of human factors in Hollywood  
 
 This project consists of three parts:  
